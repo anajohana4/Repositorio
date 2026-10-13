@@ -26,6 +26,7 @@ def load_data():
     df.set_index('fecha', inplace=True)
     return df
     
+# Rama auxiliar prueba
 
 # Cargar datos
 data = load_data()
