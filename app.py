@@ -30,6 +30,8 @@ def load_data():
 
 # Modificación en rama auxiliar 
 
+# Cambio final para la sincronizacion 
+
 # Cargar datos
 data = load_data()
 
