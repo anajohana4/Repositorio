@@ -30,6 +30,10 @@ def load_data():
 
 # Modificación en rama auxiliar 
 
+
+# Cambio para el pull request 
+
+
 # Cargar datos
 data = load_data()
 
