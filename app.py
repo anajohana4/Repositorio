@@ -28,6 +28,8 @@ def load_data():
     
 # Rama auxiliar prueba
 
+# Modificación en rama auxiliar 
+
 # Cargar datos
 data = load_data()
 
